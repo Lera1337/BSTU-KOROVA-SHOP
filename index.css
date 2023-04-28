@@ -177,7 +177,7 @@
   width: 1024px;
   height: 150px;
   overflow: hidden;
-  background-image: url(./public/footer@3x.png);
+  background-image: url(./assets/png/footer@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -321,7 +321,7 @@
   width: 1024px;
   height: 700px;
   overflow: hidden;
-  background-image: url(./public/@3x.png);
+  background-image: url(./assets/png/@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -600,7 +600,7 @@
   width: 1023px;
   height: 680px;
   overflow: hidden;
-  background-image: url(./public/1@3x.png);
+  background-image: url(./assets/png/1@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1079,7 +1079,7 @@
   left: -3px;
   width: 1024px;
   height: 1290px;
-  background-image: url(./public/2@3x.png);
+  background-image: url(./assets/png/2@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1306,7 +1306,7 @@
   width: 1021px;
   height: 827px;
   overflow: hidden;
-  background-image: url(./public/4@3x.png);
+  background-image: url(./assets/png/4@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1602,7 +1602,7 @@
     width: 786px;
     height: 150px;
     overflow: hidden;
-    background-image: url(./public/footer@3x.png);
+    background-image: url(./assets/png/footer@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -1739,7 +1739,7 @@
     width: 784px;
     height: 700px;
     overflow: hidden;
-    background-image: url(./public/@3x.png);
+    background-image: url(./assets/png/@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -2034,7 +2034,7 @@
     width: 791px;
     height: 734px;
     overflow: hidden;
-    background-image: url(./public/1@3x.png);
+    background-image: url(./assets/png/1@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -2515,7 +2515,7 @@
     left: -3px;
     width: 788px;
     height: 1747px;
-    background-image: url(./public/2@3x.png);
+    background-image: url(./assets/png/2@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -2827,7 +2827,7 @@
     right: 0;
     left: -0.38%;
     height: 811px;
-    background-image: url(./public/4@3x.png);
+    background-image: url(./assets/png/4@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -3175,7 +3175,7 @@
     width: 319px;
     height: 84px;
     overflow: hidden;
-    background-image: url(./public/footer@3x.png);
+    background-image: url(./assets/png/footer@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -3312,7 +3312,7 @@
     width: 320px;
     height: 465px;
     overflow: hidden;
-    background-image: url(./public/@3x.png);
+    background-image: url(./assets/png/@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -3632,7 +3632,7 @@
     width: 321px;
     height: 437px;
     overflow: hidden;
-    background-image: url(./public/1@3x.png);
+    background-image: url(./assets/png/1@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -4098,7 +4098,7 @@
     left: -3px;
     width: 323px;
     height: 2240px;
-    background-image: url(./public/2@3x.png);
+    background-image: url(./assets/png/2@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -4398,7 +4398,7 @@
     top: 49px;
     right: 0;
     height: 501px;
-    background-image: url(./public/4@3x.png);
+    background-image: url(./assets/png/4@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
