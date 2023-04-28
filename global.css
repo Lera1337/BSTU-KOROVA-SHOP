@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-arial: Arial;
+  --font-inherit: inherit;
+  --font-merriweather: Merriweather;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-35xl: 54px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-9xl: 28px;
+  --font-size-4xl: 23px;
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-11xl: 30px;
+  --font-size-3xs: 10px;
+  --font-size-smi: 13px;
+  --font-size-mini: 15px;
+  --font-size-5xs: 8px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-rosybrown-100: #b89c88;
+  --color-rosybrown-200: #b89b88;
+  --color-rosybrown-300: rgba(184, 155, 136, 0);
+  --color-rosybrown-400: rgba(184, 156, 136, 0.5);
+  --color-rosybrown-500: rgba(184, 156, 136, 0.7);
+  --color-white: #fff;
+  --color-gray-100: rgba(255, 255, 255, 0.5);
+  --color-gray-200: rgba(0, 0, 0, 0.5);
+
+  /* Paddings */
+  --padding-4xs: 9px;
+  --padding-20xl: 39px;
+  --padding-6xs: 7px;
+
+  /* border radiuses */
+  --br-57xl: 76px;
+  --br-4xl: 23px;
+}
